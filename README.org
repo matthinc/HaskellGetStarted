@@ -1,0 +1,4 @@
+* First Haskell project (Study project)
+** Features:
+  - ggT
+  - square

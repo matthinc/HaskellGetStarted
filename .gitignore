@@ -1,0 +1,8 @@
+*
+!*.hs
+!*.yaml
+!*.org
+!src/
+!app/
+!test/
+!.gitignore
